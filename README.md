@@ -1,0 +1,2 @@
+# RFID-Gen2X-Use-Case-Development-Framework-An-Asset-and-Personnel-Checkpoint-System-Case-Study
+The RFID (Gen2X) Use Case Development Framework enables real-time asset and personnel checkpoint tracking with &lt;250ms latency. It integrates RFID readers, antennas, and UHF tags with Python + Streamlit dashboards, Flask APIs, and optional OpenCV validation to deliver secure, scalable, and edge-friendly automation.
