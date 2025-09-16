@@ -34,8 +34,9 @@ This case study highlights a research-driven system built with **Python and Stre
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/rfid-gen2x-framework.git
+git clone https://github.com/dhavalpandit/rfid-gen2x-framework.git
 cd rfid-gen2x-framework
+
 ```
 
 ### 2️⃣ Set Up Environment  
