@@ -25,7 +25,7 @@ This case study highlights a research-driven system built with **Python and Stre
 - **Application Framework:** Streamlit (frontend + backend logic)  
 - **Hardware:** Impinj Gen2X RFID Readers, Antennas, UHF Passive Tags  
 - **Computer Vision (Optional):** OpenCV for image-based redundancy  
-- **Database:** CSV + SQL (edge-friendly storage)  
+- **Database:** CSV Database  
 - **Other Tools:** pyttsx3 (Text-to-Speech), Pandas, Requests for server checks  
 
 ---
